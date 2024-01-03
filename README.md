@@ -41,7 +41,7 @@ Welcome to the User Rating App repository! This Flutter-based mobile application
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md) - feel free to use, modify, and distribute as needed.
+This project is licensed under the MIT Licence - feel free to use, modify, and distribute as needed.
 
 ## Connect with Me
 
